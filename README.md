@@ -13,10 +13,10 @@ Este é um simples projeto de API em Node.JS para gerenciar informações sobre 
 
 ## Utilização
 
-- 1. Clone este repositório.
-- 2. Instale as dependências do projeto usando o comando npm install.
-- 3. Inicie o servidor usando o comando npm start.
-- 4. Teste as rotas da API usando o Postman ou uma ferramenta similar.
+1. Clone este repositório.
+2. Instale as dependências do projeto usando o comando npm install.
+3. Inicie o servidor usando o comando npm start.
+4. Teste as rotas da API usando o Postman ou uma ferramenta similar.
 
 ## Modelo de Dados
 
